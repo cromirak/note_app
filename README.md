@@ -1,5 +1,5 @@
 ## note_app
-- Note App using sqflite CRUD.
+- Flutter Note App using sqflite CRUD.
 
 ## Flutter pub get
 $ flutter pub get
