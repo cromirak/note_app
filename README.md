@@ -15,7 +15,7 @@ $ flutter pub add logger
 <br><br>
 2. Write, Edit <br>
 <img src="./assets/images/note_write.jpg" width="200" height="400" />
-<img src="./assets/images/note_Edit.jpg" width="200" height="400" />
+<img src="./assets/images/note_edit.jpg" width="200" height="400" />
 <br><br>
 3. Delete <br>
 <img src="./assets/images/note_delete.jpg" width="200" height="400" />
